@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "sinon": false,
+    "window": false,
+    "context": false,
+    "expect": false
+  },
+  "node": true,
+  "mocha": true,
+  "expr": true
+}
