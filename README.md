@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center;">
-  <img src=http://i.imgur.com/8N5Yr1S.png" alt="Guy Fierboti">
+  <img src="http://i.imgur.com/yITaYXR.png" alt="Guy Fierboti">
 </p>
 
 ### Guy
