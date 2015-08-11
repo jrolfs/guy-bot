@@ -1,4 +1,3 @@
-<h1 align="center">Guy Fierboti</h1>
 <p align="center" style="text-align: center;">
   <img src=http://i.imgur.com/8N5Yr1S.png" alt="Guy Fierboti">
 </p>
