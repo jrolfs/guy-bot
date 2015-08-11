@@ -4,7 +4,7 @@
 
 ### Guy
 
-Guy is a chat bot built on the [Hubot][hubot] framework.
+Guy is a chat bot built on the [Hubot](https://hubot.github.com/) framework.
 
 ### Running Guy Locally
 
